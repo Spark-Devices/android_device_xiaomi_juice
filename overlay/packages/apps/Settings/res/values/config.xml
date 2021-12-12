@@ -33,4 +33,7 @@
     <string name="config_batCurCap">/sys/class/power_supply/bms/charge_full</string>
     <string name="config_batChargeCycle">/sys/class/power_supply/bms/cycle_count</string>
 
+<!-- Maintainers Name -->
+    <string name="spark_maintainer">Umaruchan</string>
+
 </resources>
